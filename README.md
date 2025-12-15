@@ -231,7 +231,7 @@ O código está pela metade, e você deverá dar continuidade obedecendo as regr
 
 * **Adicionado em "ConexPadrao" o caminho para conectar ao banco de dados, conforme exigido pelo desafio.**
 
-```jason
+```json
 {
   "Logging": {
     "LogLevel": {
